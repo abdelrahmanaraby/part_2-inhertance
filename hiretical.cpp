@@ -67,7 +67,7 @@ cout<<"==========================\n";
 programer oop ("web delevoper","osama elzero",30);
 oop.print();
 // drive class 
-pop opj;
-oop *op=&opj;   // Call the `print()` method through the base class pointer
-op->print();
+//pop opj;
+//oop *op=&opj;   // Call the `print()` method through the base class pointer
+//op->print();
 }
